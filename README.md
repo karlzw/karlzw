@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in Developing Applications and Actuarial Science
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development and Data Science 
+
+
+
+- 📫 You can reach me on Twitter 
+
+
+
 
 <!---
 karlzw/karlzw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
