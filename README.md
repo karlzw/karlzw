@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in Developing Applications and Actuarial Science
-- 🌱 I’m currently learning Web Development and Data Science 
-
-
-
+- 🌱 I’m currently learning Web Development
 - 📫 You can reach me on Twitter 
 
 
