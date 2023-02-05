@@ -4,7 +4,7 @@
 - 👀 I’m interested in Actuarial Science and Developing Applications
 - 🌱 I’m currently pursing a Bachelors Degree in Actuarial Science and learning Web Development
 - ✨ I think Frontend Web Development is Cool
-- 📫 Falling in love with React and thinking of learning React Native so I can build Mobile Apps
+- 📫 Falling in love with React and thinking of learning React Native so I can also build Mobile Apps
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
