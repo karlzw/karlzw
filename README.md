@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi , I'm Carlos Tizirai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Carlos Tizirai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
 - 👀 I’m interested in Actuarial Science, Data Science and Web Development
@@ -63,7 +63,7 @@
   
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Let's Connect..!</b>
   
-<div align='left'>
+<div align='center'>
   <a href="https://twitter.com/karl_zw" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
   </a>
