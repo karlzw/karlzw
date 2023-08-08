@@ -27,16 +27,6 @@
  
 <br>
 
-- **Softwares and Tools**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
 </p>
 
 <br>
@@ -52,7 +42,7 @@
 </a>
 </div>
 
-<div align="center" padding-top=100>
+<div align="center" padding-top=100px>
 <a href="https://github.com/karlzw/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlzw&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout-compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="karl_zw"/>
 </a>
