@@ -49,7 +49,8 @@
 
 <a href="https://github.com/karlzw/">
   <img src="https://github-readme-stats.vercel.app/api?username=karlzw&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlzw&include_all_commits=true&count_private=true&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="karl_zw"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlzw&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout =compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="karl_zw"/>
 </a>
 </div>
 
@@ -64,7 +65,7 @@
   <a href="https://twitter.com/karl_zw" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-tizirai-95641b1b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-tizirai/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=twitter s/>
   </a>
   <a href="mailto:ctizirai2@gmail.com" target="_blank">
