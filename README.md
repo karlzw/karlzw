@@ -1,19 +1,17 @@
 <h1 align="center"><b>Hi , I'm Carlos Tizirai </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
-- 👀 I’m interested in Actuarial Science, Data Science and Web Development
-- 🌱 I’m currently pursing a Bachelors Degree in Actuarial Science and learning Web Development
-- ✨ I think Frontend Web Development is Cool
-- 📫 Falling in love with React
+- 👀 I’m an Aspiring Actuary with Data Science and Full Stack Web Development Skills
+- 🌱 I hold a BSc (Hons) in Actuarial Science
+- ✨ I love working with Python, it's the got
+- 📫 Give me you ideas and I will build you a cool Web App
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
-- **Languages**:
-
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **Main Programming Languages**:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
  
@@ -24,8 +22,6 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![FastApi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
 <br>
