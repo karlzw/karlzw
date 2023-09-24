@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
 - 👀 I’m an Aspiring Actuary with Data Science and Full Stack Web Development Skills
 - 🌱 I hold a BSc (Hons) in Actuarial Science
-- ✨ I love working with Python, it's the goat
+- ✨ I love working with Python & Javascript,
 - 📫 Give me your idea and I will make you a 🧊 Cool Web App
 <br>
 
@@ -15,6 +15,9 @@
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+  - **Other Languages**:
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
  
 <br>   
 
